@@ -1,12 +1,12 @@
-# moved
-
-All projects moved to https://gitlab.com/axet/
-
-Change.org
+# change.org
 
 Please support my petition at:
 
 * https://www.change.org/in-god-we-trust
+
+# Moved
+
+All projects moved to https://gitlab.com/axet/
 
 Reasons:
 
